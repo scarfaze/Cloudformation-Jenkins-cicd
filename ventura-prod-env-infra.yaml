@@ -818,5 +818,4 @@ Resources:
         Value: venturaproddb
     DeletionPolicy: Snapshot
 
-
 Outputs: {}
